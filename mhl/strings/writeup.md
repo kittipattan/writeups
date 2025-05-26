@@ -35,7 +35,7 @@ For full lab instructions, see: [Lab - Strings](https://www.mobilehackinglab.com
     - iv: `1234567890123456`
 - I used CyberChef to decrypt and the result is `mhl_secret_1337` (base64: `bWhsX3NlY3JldF8xMzM3`)
 
-![CyberChef result](images/mhl_strings_cyberchef_result.png)
+![CyberChef result](images/mhl_strings_cyberchefResult.png)
 
 - If all conditions are passed, it will invoke the native method `getflag` from native library; otherwise, it will exit the application
 
